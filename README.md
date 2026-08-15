@@ -1,9 +1,8 @@
-https://ayurbot-a-rag-based-chatbot-mhpqj6ew9dhbzeepuxz28p.streamlit.app/
 # 🌿 AyurBot — Ayurveda Knowledge Assistant
 
 AyurBot is a Retrieval-Augmented Generation (RAG) chatbot that answers questions about Ayurveda by grounding its responses in *The Ayurveda Encyclopedia*. It combines document retrieval with a large language model to give clear, context-aware answers instead of relying purely on the model's general knowledge.
 
-🔗 **Live demo:** [Add your deployed Streamlit link here]
+🔗 **Live demo:** [https://ayurbot-a-rag-based-chatbot-mhpqj6ew9dhbzeepuxz28p.streamlit.app/]
 
 ---
 
