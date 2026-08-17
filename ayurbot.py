@@ -109,7 +109,7 @@ def set_custom_prompt():
 
 def load_llm():
     return ChatGroq(
-        model_name="llama-3.3-70b-versatile",
+        model_name="openai/gpt-oss-120b",
         temperature=0.3,
         groq_api_key=GROQ_API_KEY,
     )
